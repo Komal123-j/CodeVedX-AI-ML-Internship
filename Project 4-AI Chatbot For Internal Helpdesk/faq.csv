@@ -1,0 +1,49 @@
+question,intent
+How do I reset my password?,password_reset
+I forgot my password,password_reset
+I cannot remember my password,password_reset
+How can I change my password?,password_reset
+Where can I reset my password?,password_reset
+How do I change my account password?,password_reset
+I forgot my login password,password_reset
+How can I recover my password?,password_reset
+How do I create an account?,account_creation
+I want to create a new account,account_creation
+How can I register?,account_creation
+Where can I sign up?,account_creation
+How do I make a new account?,account_creation
+Can I register for an account?,account_creation
+How do I sign up?,account_creation
+I need to create a user account,account_creation
+How do I contact support?,contact_support
+I need help from support,contact_support
+How can I contact customer support?,contact_support
+Where can I get technical support?,contact_support
+How do I talk to support?,contact_support
+I want to contact the support team,contact_support
+Can someone from support help me?,contact_support
+Where can I find customer service?,contact_support
+What are your working hours?,working_hours
+When is customer support available?,working_hours
+What time does support open?,working_hours
+When does support close?,working_hours
+What are the support hours?,working_hours
+Is support available on weekends?,working_hours
+What time can I contact support?,working_hours
+When can I get help?,working_hours
+How do I update my profile?,profile_update
+I want to change my profile information,profile_update
+How can I edit my profile?,profile_update
+Where can I update my personal details?,profile_update
+How do I change my account information?,profile_update
+I need to edit my profile,profile_update
+Can I update my personal information?,profile_update
+How can I modify my profile?,profile_update
+How do I check my account?,account_information
+Where can I see my account details?,account_information
+How can I view my account information?,account_information
+Where can I find my account details?,account_information
+How do I view my profile information?,account_information
+Can I see my account information?,account_information
+Where are my account details?,account_information
+How can I check my profile?,account_information
